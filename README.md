@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ezequiel Mussambe</h1>
-<h3 align="center">A passionate GIS developer and GIS Analysis</h3>
+<h3 align="center">A passionate GIS developer and GIS Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezequielmussambe37&label=Profile%20views&color=0e75b6&style=flat" alt="ezequielmussambe37" /> </p>
 
