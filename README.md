@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezequielmussambe37&label=Profile%20views&color=0e75b6&style=flat" alt="ezequielmussambe37" /> </p>
 
-- 👨‍💻 All of my projects are available at [Portfolio]([https://portfolio-em.streamlit.app/](https://ezequielmussambe.pythonanywhere.com/))
+- 👨‍💻 All of my projects are available at [Portfolio](https://ezequielmussambe.pythonanywhere.com/)
 
 - 💬 Ask me about **Python,Typescript,R language**
 
